@@ -5,31 +5,31 @@ This repository comprises five operating system assignments completed during Sem
 ## Assignments Overview
 
 - **Assignment 1:**
-  - Folder: `OS_Assignment_1`
+  - Folder: [`OS_Assignment_1`](OS_Assignment_1)
   - Description: Simple Loader.
   - Contributors: Harsh Mistry, Aditya Narayan Jagadale
   - README: [Link to README file](OS_Assignment_1/README.md)
 
 - **Assignment 2:**
-  - Folder: `OS_Assignment_2`
+  - Folder: [`OS_Assignment_2`](OS_Assignment_2)
   - Description: Simple Shell.
   - Contributors: Harsh Mistry, Aditya Narayan Jagadale
   - README: [Link to README file](OS_Assignment_2/README.md)
 
 - **Assignment 3:**
-  - Folder: `OS_Assignment_3`
+  - Folder: [`OS_Assignment_3`](OS_Assignment_3)
   - Description: Simple Scheduler integrated with Simple Shell.
   - Contributors: Harsh Mistry, Aditya Narayan Jagadale
   - README: [Link to README file](OS_Assignment_3/README.md)
 
 - **Assignment 4:**
-  - Folder: `OS_Assignment_4`
+  - Folder: [`OS_Assignment_4`](OS_Assignment_4)
   - Description: Simple Lazy Loader integrated with Simple Loader.
   - Contributors: Harsh Mistry, Aditya Narayan Jagadale
   - README: [Link to README file](OS_Assignment_4/README.md)
 
 - **Assignment 5:**
-  - Folder: `OS_Assignment_5`
+  - Folder: [`OS_Assignment_5`](OS_Assignment_5)
   - Description: Multithreading.
   - Contributors: Harsh Mistry, Aditya Narayan Jagadale
   - README: [Link to README file](OS_Assignment_5/README.md)
